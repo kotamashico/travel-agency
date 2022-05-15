@@ -1,0 +1,21 @@
+.searchFlight,
+.flightType {
+  background-color: white;
+  width: 90% !important;
+  margin-left: 5%;
+  margin-top: 10px;
+  align-items: center;
+  min-width: 603px;
+  flex-wrap: nowrap !important;
+
+  /* justify-items: center !important; */
+}
+.searchFlight {
+  margin-top: unset;
+  height: 120px;
+  border-radius: 0 0 10px 10px;
+}
+
+.flightType {
+  border-radius: 10px 10px 0 0;
+}

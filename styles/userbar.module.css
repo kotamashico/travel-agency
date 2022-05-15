@@ -1,0 +1,9 @@
+.userBar {
+  background-color: white;
+  width: 90% !important;
+  margin-left: 5%;
+  margin-top: 10px;
+  border-radius: 10px;
+  align-items: center;
+  min-width: 603px;
+}
